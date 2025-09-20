@@ -1,47 +1,50 @@
-# 🌸 Leetcode Solutions by Simran Khanna 🌸
+# 🌸💖 Leetcode Solutions by Simran Khanna 💖🌸
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Aniket-Chugh/Leetcode-solution?style=for-the-badge) 
-![GitHub stars](https://img.shields.io/github/stars/Aniket-Chugh/Leetcode-solution?style=for-the-badge) 
-![GitHub forks](https://img.shields.io/github/forks/Aniket-Chugh/Leetcode-solution?style=for-the-badge)
-![Leetcode solved](https://img.shields.io/badge/Leetcode-Solved%20Problems-orange?style=for-the-badge&logo=leetcode)
+![GitHub repo size](https://img.shields.io/github/repo-size/Simss9/leetcode-Solutions?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Simss9/leetcode-Solutions?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Simss9/leetcode-Solutions?style=for-the-badge)
+![Leetcode](https://img.shields.io/badge/Leetcode-Profile-orange?style=for-the-badge&logo=leetcode)
 
-💖 Hi! I’m **Simran Khanna**, a passionate learner who loves coding, problem-solving, and making my code 💕pretty and efficient.  
+✨ Hi! I’m **Simran Khanna**, a passionate coder with a love for **problem-solving, algorithms, and cute code**! 💕  
+I solve **Leetcode problems daily** to sharpen my skills and keep my coding streak alive! 🔥
 
 ![coding-animation](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
 ---
 
-## 📚 My Leetcode Journey
+## 🌈 My Leetcode Stats (Automatically Updated)
 
-I’m actively solving **Leetcode problems** and leveling up my coding skills. Here’s how my progress looks:
+| Metric | Count |
+|--------|-------|
+| 💖 Total Solved | ![Solved](https://img.shields.io/badge/Solved-`{{SOLVED}}`-brightgreen) |
+| 🌸 Daily Streak | ![Streak](https://img.shields.io/badge/Streak-`{{STREAK}}`-ff69b4) |
+| 🌷 Easy | `{{EASY}}` |
+| 🌼 Medium | `{{MEDIUM}}` |
+| 🌺 Hard | `{{HARD}}` |
 
-| Category | Problems Solved | Streak |
-|----------|----------------|--------|
-| Arrays | 45 ✅ | 🔥🔥🔥 3-day streak |
-| Linked Lists | 30 ✅ | 🔥🔥 2-day streak |
-| Recursion | 20 ✅ | 🔥🔥🔥 3-day streak |
-| Stacks & Queues | 25 ✅ | 🔥 1-day streak |
-| Dynamic Programming | 15 ✅ | 🔥 1-day streak |
-
-✨ My **goal**: 100+ problems this month and keeping my coding streak alive!  
-
+![streak-animation](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 ![learning-animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ---
 
-## 🛠️ Technologies & Skills
+## 🏆 Categories & Skills
 
-- **Languages:** `JavaScript`, `Java`, `Python`  
-- **Databases:** `MySQL`  
-- **Full Stack:** `Node.js`, `Express.js`, `React.js`  
-- **Other Skills:** Problem-solving, algorithms, data structures, debugging  
+- 🟢 **Arrays**  
+- 🔗 **Linked Lists**  
+- 🔁 **Recursion**  
+- 🗂️ **Stacks & Queues**  
+- 📈 **Dynamic Programming**  
+- 💾 **Databases (MySQL)**  
+- 🌐 **Full Stack JS**  
+
+**Technologies I ❤️:** `JavaScript`, `Java`, `Python`, `Node.js`, `Express.js`, `React.js`  
 
 ![tech-stack-animation](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
 ---
 
-## 🚀 How to Explore My Work
+## 🚀 Explore My Work
 
-1. **Clone the repo:**
-   ```bash
-   git clone https://github.com/Aniket-Chugh/Leetcode-solution.git
+```bash
+git clone https://github.com/Simss9/leetcode-Solutions.git
+cd leetcode-Solutions
