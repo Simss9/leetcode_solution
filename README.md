@@ -1,45 +1,47 @@
-# 🚀 Leetcode Solutions by Aniket Chugh
+# 🌸 Leetcode Solutions by Simran Khanna 🌸
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Aniket-Chugh/Leetcode-solution?style=for-the-badge) 
-![GitHub contributors](https://img.shields.io/github/contributors/Aniket-Chugh/Leetcode-solution?style=for-the-badge) 
 ![GitHub stars](https://img.shields.io/github/stars/Aniket-Chugh/Leetcode-solution?style=for-the-badge) 
 ![GitHub forks](https://img.shields.io/github/forks/Aniket-Chugh/Leetcode-solution?style=for-the-badge)
+![Leetcode solved](https://img.shields.io/badge/Leetcode-Solved%20Problems-orange?style=for-the-badge&logo=leetcode)
 
-Welcome to my **Leetcode solutions repository!**  
-This is my journey through **algorithmic problem-solving** and coding challenges to prepare for technical interviews.
-
----
-
-## 📚 Repository Overview
-
-This repo contains solutions to a wide range of problems:
-
-- 🟢 **Arrays**
-- 🔗 **Linked Lists**
-- 🔁 **Recursion**
-- 🗂️ **Stacks & Queues**
-- 📈 **Dynamic Programming**
-- 💾 **Databases (MySQL)**
-- 🌐 **Full Stack JavaScript Challenges**
-
-Each folder contains **well-commented solutions** for easy understanding.  
+💖 Hi! I’m **Simran Khanna**, a passionate learner who loves coding, problem-solving, and making my code 💕pretty and efficient.  
 
 ![coding-animation](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
 ---
 
-## 🛠️ Technologies Used
+## 📚 My Leetcode Journey
+
+I’m actively solving **Leetcode problems** and leveling up my coding skills. Here’s how my progress looks:
+
+| Category | Problems Solved | Streak |
+|----------|----------------|--------|
+| Arrays | 45 ✅ | 🔥🔥🔥 3-day streak |
+| Linked Lists | 30 ✅ | 🔥🔥 2-day streak |
+| Recursion | 20 ✅ | 🔥🔥🔥 3-day streak |
+| Stacks & Queues | 25 ✅ | 🔥 1-day streak |
+| Dynamic Programming | 15 ✅ | 🔥 1-day streak |
+
+✨ My **goal**: 100+ problems this month and keeping my coding streak alive!  
+
+![learning-animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+---
+
+## 🛠️ Technologies & Skills
 
 - **Languages:** `JavaScript`, `Java`, `Python`  
-- **Database:** `MySQL`  
+- **Databases:** `MySQL`  
 - **Full Stack:** `Node.js`, `Express.js`, `React.js`  
+- **Other Skills:** Problem-solving, algorithms, data structures, debugging  
 
 ![tech-stack-animation](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
 ---
 
-## 🚀 Getting Started
+## 🚀 How to Explore My Work
 
-1. **Clone the repository:**
+1. **Clone the repo:**
    ```bash
    git clone https://github.com/Aniket-Chugh/Leetcode-solution.git
