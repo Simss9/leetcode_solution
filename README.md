@@ -1,4 +1,4 @@
-# 🌸💖 Leetcode Solutions by Simran Khanna 💖🌸
+# 🌸Leetcode Solutions by Simran Khanna 🌸
 
 ![Repo Size](https://img.shields.io/github/repo-size/Simss9/leetcode-Solutions?style=for-the-badge&color=ffb6c1)
 ![Stars](https://img.shields.io/github/stars/Simss9/leetcode-Solutions?style=for-the-badge&color=ff69b4)
