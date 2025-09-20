@@ -3,7 +3,7 @@
 ![Repo Size](https://img.shields.io/github/repo-size/Simss9/leetcode-Solutions?style=for-the-badge&color=87CEEB)
 ![Stars](https://img.shields.io/github/stars/Simss9/leetcode-Solutions?style=for-the-badge&color=FFD700)
 ![Forks](https://img.shields.io/github/forks/Simss9/leetcode-Solutions?style=for-the-badge&color=87CEEB)
-<a href="https://leetcode.com/u/Simran_Khanna/">
+<a href="https://leetcode.com/u/Simran_Khanna/" target="_blank">
 ![Leetcode](https://img.shields.io/badge/Leetcode-Profile-FFD700?style=for-the-badge&logo=leetcode)
 </a>
 
