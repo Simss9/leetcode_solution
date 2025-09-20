@@ -1,49 +1,50 @@
 # 🌸💖 Leetcode Solutions by Simran Khanna 💖🌸
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Simss9/leetcode-Solutions?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Simss9/leetcode-Solutions?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/Simss9/leetcode-Solutions?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/Simss9/leetcode-Solutions?style=for-the-badge&color=ffb6c1)
+![Stars](https://img.shields.io/github/stars/Simss9/leetcode-Solutions?style=for-the-badge&color=ff69b4)
+![Forks](https://img.shields.io/github/forks/Simss9/leetcode-Solutions?style=for-the-badge&color=ffb6c1)
 ![Leetcode](https://img.shields.io/badge/Leetcode-Profile-orange?style=for-the-badge&logo=leetcode)
 
-✨ Hi! I’m **Simran Khanna**, a passionate coder with a love for **problem-solving, algorithms, and cute code**! 💕  
-I solve **Leetcode problems daily** to sharpen my skills and keep my coding streak alive! 🔥
+✨ Hi! I’m **Simran Khanna** 
+I love **problem-solving, algorithms, and blockchain development** 🌸  
+I practice **Leetcode daily** to keep my coding streak alive 🔥  
 
 ![coding-animation](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
 ---
 
-## 🌈 My Leetcode Stats (Automatically Updated)
+##  My Coding Activity
 
 | Metric | Count |
 |--------|-------|
-| 💖 Total Solved | ![Solved](https://img.shields.io/badge/Solved-`{{SOLVED}}`-brightgreen) |
-| 🌸 Daily Streak | ![Streak](https://img.shields.io/badge/Streak-`{{STREAK}}`-ff69b4) |
-| 🌷 Easy | `{{EASY}}` |
-| 🌼 Medium | `{{MEDIUM}}` |
-| 🌺 Hard | `{{HARD}}` |
+| 🌸 GitHub Commits | ![Commits](https://img.shields.io/github/commit-activity/m/Simss9/leetcode-Solutions?style=for-the-badge&color=ff69b4) |
 
-![streak-animation](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-![learning-animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+>  This shows the number of commits I’ve made in this repo — tracking my consistent coding journey!  
 
 ---
 
-## 🏆 Categories & Skills
+## 🌷 DSA Topics & Concepts 🌷
 
-- 🟢 **Arrays**  
-- 🔗 **Linked Lists**  
-- 🔁 **Recursion**  
-- 🗂️ **Stacks & Queues**  
-- 📈 **Dynamic Programming**  
-- 💾 **Databases (MySQL)**  
-- 🌐 **Full Stack JS**  
+Here’s what I’ve been practicing, explained simply 
 
-**Technologies I ❤️:** `JavaScript`, `Java`, `Python`, `Node.js`, `Express.js`, `React.js`  
+- 🟢 **Arrays** – Basics & advanced problems, sliding window, prefix sum, sorting.  
+- 🔗 **Linked Lists** – Single, double, cycle detection, reversing, merging.  
+- 🔁 **Recursion** – Step-by-step problem solving, backtracking, divide & conquer.  
+- 🗂️ **Stacks & Queues** – LIFO/FIFO, expression evaluation, circular queues.  
+- 📈 **Dynamic Programming** – Optimization, memoization, tabulation, knapsack.  
+- 🌳 **Trees** – Binary trees, BSTs, traversals, depth, LCA.  
+- 🌐 **Graphs** – BFS, DFS, shortest paths, connected components, topological sort.  
+- 🧮 **Hashing** – Hash maps, frequency counts, sets, two-sum problems.  
+- 💾 **Databases (MySQL)** – Queries, joins, CRUD, transactions.  
+- 🌐 **Full Stack JS** – Node.js backend, Express APIs, React frontend, DB integration.  
+
+**Technologies I do:** `JavaScript`, `Java`, `Python`, `Node.js`, `Express.js`, `React.js`  
 
 ![tech-stack-animation](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
 ---
 
-## 🚀 Explore My Work
+## 🚀 Explore My Work 💕
 
 ```bash
 git clone https://github.com/Simss9/leetcode-Solutions.git
