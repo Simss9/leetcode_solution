@@ -3,8 +3,8 @@ class Solution {
       
       
 
-        // Print statement (equivalent to cout)
-        System.out.print("SIMRAN(23BCS10153)");
+        
+        
 
         // Always apply binary search on smaller array
         if (nums1.length > nums2.length)
